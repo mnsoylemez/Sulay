@@ -16,8 +16,8 @@ This repository contains a PyTorch-based Transformer language model for text gen
 
 ### Hardware
 
-- **RAM**: At least 8GB (16GB recommended).
-- **GPU**: Optional CUDA-compatible GPU for faster training (CPU supported).
+- **RAM**: At least 16GB (32GB or higher recommended).
+- **GPU**: Optional CUDA-compatible GPU for faster training (CPU supported but for large datasests GPU is a must).
 - **Storage**: \~1GB for dataset, model weights, and tokenizer files.
 
 ### Software
